@@ -1,4 +1,4 @@
 # git-workshop
 
 
-Kalol Institute
+Krishna panchal
